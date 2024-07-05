@@ -1,0 +1,185 @@
+{
+  "shortDescription": "Test your cryptocurrency knowledge with this quiz.",
+  "questions": [
+    {
+      "question": "What is BTC?",
+      "answers": [
+        "Bitcoin",
+        "Ether",
+        "Ripple"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is ETH?",
+      "answers": [
+        "Ripple",
+        "Ether",
+        "Bitcoin"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "What is XRP?",
+      "answers": [
+        "Ether",
+        "Ripple",
+        "Litecoin"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "What is a DEX?",
+      "answers": [
+        "Wallet",
+        "Exchange",
+        "Node"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "What is HODL?",
+      "answers": [
+        "Sell",
+        "Trade",
+        "Hold"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "What is FOMO?",
+      "answers": [
+        "Fear",
+        "Trade",
+        "Pump"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is an ICO?",
+      "answers": [
+        "IPO",
+        "Token",
+        "Chain"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "What is a Wallet?",
+      "answers": [
+        "Key",
+        "Store",
+        "Mine"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "What is Mining?",
+      "answers": [
+        "Buy",
+        "Sell",
+        "Create"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "What is a Node?",
+      "answers": [
+        "Point",
+        "Chain",
+        "Link"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Gas?",
+      "answers": [
+        "Fuel",
+        "Fee",
+        "Speed"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "What is a Fork?",
+      "answers": [
+        "Split",
+        "Join",
+        "Merge"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a Block?",
+      "answers": [
+        "Data",
+        "Coin",
+        "Code"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a Ledger?",
+      "answers": [
+        "Record",
+        "Key",
+        "Wallet"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a Whale?",
+      "answers": [
+        "Trader",
+        "Miner",
+        "Hacker"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is FUD?",
+      "answers": [
+        "News",
+        "Fear",
+        "Pump"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "What is a Bear?",
+      "answers": [
+        "Bull",
+        "Trader",
+        "Market"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "What is a Token?",
+      "answers": [
+        "Coin",
+        "Block",
+        "Data"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Altcoin?",
+      "answers": [
+        "Bitcoin",
+        "Token",
+        "Coin"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "What is a Bull?",
+      "answers": [
+        "Bear",
+        "Miner",
+        "Market"
+      ],
+      "correctAnswerIndex": 2
+    }
+  ]
+}
